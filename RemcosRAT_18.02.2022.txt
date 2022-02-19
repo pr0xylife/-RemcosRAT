@@ -1,0 +1,28 @@
+RemcosRAT | 18.02.2022 | googleappupdatehost
+
+***************************************************************
+
+zip a3d3c81e5872b154d95304dafe2634e87b6ae69159ba48ccd23fc99bc5c4d07a
+zip ab3e12fea0dfa153eec9406157222eea98094218866a804a54bedfeeaabb59aa
+
+EXEC
+
+C:\Users\Admin\AppData\Local\Temp\FED Gov Approved Certificates.exe
+
+"cmd" /c ping 127.0.0.1 -n 36 > nul &&  REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f /v "AppBrowserUpadets" /t REG_SZ /d "C:\Users\Admin\AppData\Roaming\AppBrowserUpadets.exe"
+
+ping  127.0.0.1 -n 36 
+
+REG  ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f /v "AppBrowserUpadets" /t REG_SZ /d "C:\Users\Admin\AppData\Roaming\AppBrowserUpadets.exe"
+
+"cmd" /c ping 127.0.0.1 -n 39 > nul &&  copy "C:\Users\Admin\AppData\Local\Temp\FED Gov Approved Certificates.exe" "C:\Users\Admin\AppData\Roaming\AppBrowserUpadets.exe" && ping 127.0.0.1 -n 39 > nul &&  "C:\Users\Admin\AppData\Roaming\AppBrowserUpadets.exe"
+
+ping  127.0.0.1 -n 39  
+
+ping  127.0.0.1 -n 39  
+
+"C:\Users\Admin\AppData\Roaming\AppBrowserUpadets.exe"
+
+
+c2'
+91.193.75.188:60001
