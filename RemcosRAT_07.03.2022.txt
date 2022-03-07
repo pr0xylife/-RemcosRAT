@@ -2,7 +2,7 @@ RemcosRAT | 18.02.2022 | Version 3.2.1 Pro | Botnet - RemoteHost
 
 ***************************************************************
 
-.iso 
+.iso A8E04D1C04214D816174508E9BB5E89C223DDB3085BAA464F71C8A3BC6F20B39
 .exe 44d963269f8d6e5ec5c15354be28c9078f58eea78943d39eb78c6485dea5065d
 
 ***************************************************************
@@ -26,5 +26,4 @@ powershell  -WindowStyle Hidden -inputformat none -outputformat none -NonInterac
 ***************************************************************
 
 c2'
-
 boysgoblow.hopto.org:7838
