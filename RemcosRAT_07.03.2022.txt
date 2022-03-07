@@ -1,4 +1,4 @@
-RemcosRAT | 18.02.2022 | Version 3.2.1 Pro | Botnet - RemoteHost
+RemcosRAT | 07.03.2022 | Version 3.2.1 Pro | Botnet - RemoteHost
 
 ***************************************************************
 
