@@ -1,0 +1,30 @@
+RemcosRAT | 18.02.2022 | Version 3.2.1 Pro | Botnet - RemoteHost
+
+***************************************************************
+
+.iso 
+.exe 44d963269f8d6e5ec5c15354be28c9078f58eea78943d39eb78c6485dea5065d
+
+***************************************************************
+
+Exec >>
+
+C:\Users\Admin\AppData\Local\Temp\URGENT RFQ MARCH_787562455,pdf.exe"
+
+C:\Windows\System32\logagent.exe
+
+cmd.exe /c C:\Users\Public\Zioppuvt.bat
+
+cmd.exe  /K C:\Users\Public\ZioppuvO.bat  
+
+net  session  
+
+net1  session  
+
+powershell  -WindowStyle Hidden -inputformat none -outputformat none -NonInteractive -Command "Add-MpPreference -ExclusionPath 'C:\Users'" 
+
+***************************************************************
+
+c2'
+
+boysgoblow.hopto.org:7838
